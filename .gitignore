@@ -1,0 +1,16 @@
+# IntelliJ / Eclipse / Java-Projekt
+*.class
+*.log
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+target/
+
+# Screenshot-Ordner
+/screenshots/
+
+# Betriebssystemdateien
+Thumbs.db
+.DS_Store
