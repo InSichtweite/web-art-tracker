@@ -20,9 +20,9 @@ A Java-based tool for analyzing dynamic visual changes in web-based artworks.
 
 ## Folder structure
 /screenshots/
-/session_YYYYMMDD_HHMMSS/
-screenshot_*.png
-event_log.csv
+  /session_YYYYMMDD_HHMMSS/
+    screenshot_*.png
+    event_log.csv
 /src/
 README.md
 
