@@ -29,3 +29,7 @@ WebArtTracker/
 ├── README.md
 └── ...
 ```
+
+## Project context
+
+This tool was developed as part of the research project [Coded Secrets](https://github.com/CodedSecrets).
