@@ -19,10 +19,5 @@ A Java-based tool for analyzing dynamic visual changes in web-based artworks.
 5. Press [Enter] to stop tracking
 
 ## Folder structure
-/screenshots/
-  /session_YYYYMMDD_HHMMSS/
-    screenshot_*.png
-    event_log.csv
-/src/
-README.md
+<pre> ## Folder structure ``` WebArtTracker/ ├── src/ ├── screenshots/ │ └── session_YYYYMMDD_HHMMSS/ │ ├── screenshot_*.png │ └── event_log.csv ├── README.md └── ... ``` </pre>
 
