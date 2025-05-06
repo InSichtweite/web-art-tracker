@@ -17,7 +17,3 @@ A Java-based tool for analyzing dynamic visual changes in web-based artworks.
 3. Set the path to your ChromeDriver in `VisualTracker.java`
 4. Run the program using your IDE or terminal
 5. Press [Enter] to stop tracking
-
-## Folder structure
-<pre> ## Folder structure ``` WebArtTracker/ ├── src/ ├── screenshots/ │ └── session_YYYYMMDD_HHMMSS/ │ ├── screenshot_*.png │ └── event_log.csv ├── README.md └── ... ``` </pre>
-
